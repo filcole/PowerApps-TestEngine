@@ -46,7 +46,7 @@ dotnet build
 # Install browsers required by Playwright
 .\bin\Debug\PowerAppsTestEngine\playwright.ps1 install
 ```
-If you face trouble running dotnet build try [Clean locally](https://github.com/microsoft/PowerApps-TestEngine#clean-locally) first.
+If you face trouble running dotnet build try [Clean locally](#clean-locally) first.
 
 ### Clean locally
 
@@ -55,7 +55,7 @@ Run the command below in PowerShell to clean untracked files. Please make sure t
 # Clean
 .\clean.cmd
 ```
-Once done, continue following [Build locally](https://github.com/microsoft/PowerApps-TestEngine#build-locally)
+Once done, continue following [Build locally](#build-locally)
 
 ### Using the provided samples
 
